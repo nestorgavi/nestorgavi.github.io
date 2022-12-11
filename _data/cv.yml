@@ -6,14 +6,14 @@
     - name: Date of Birth
       value: 20th November 
     - name: Languages
-      value: English, German, spanisht
+      value: English, German, spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Free University of Berlin, Berlin, Germany
+      year: 2019 - current
       description:
         - Description 1.
         - Description 2.
@@ -21,8 +21,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: Master Marine Geosciences
+      institution: Bremen University, Bremen, Germany
       year: 1900
       description:
         - Description 1.
